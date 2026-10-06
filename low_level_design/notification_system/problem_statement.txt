@@ -1,0 +1,9 @@
+'''
+Design and implement a notification system with multiple channel support like email, sms, push notification etc.
+
+Requirements :
+    - send notification
+    - add new notification channel (scalable)
+    - add retry mechanism (failure management)
+    - support different template per channel (dynamic nature)
+'''
