@@ -1,0 +1,12 @@
+Build a Min Heap and implement below methods
+    - push
+    - delete
+    - get_min_val
+    - Dunder functions
+        - __init__ : initalize a list to save min_heap
+        - __len__ : to find the length of min_heap
+        - __str__ : to find the min_heap list
+    - private utilities : 
+        - _parent
+        - _left_child
+        - _right_child
